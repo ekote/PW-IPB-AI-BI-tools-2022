@@ -9,7 +9,7 @@ Narzędzia AI i BI - Politechnika Warszawska Studia Podyplomowe - Inżynieria pr
 # Zaliczenie
 - Test 1 - 30%
 - Test 2 - 30%
-- Case study - 40%
+- Case studies - 40%
 
 # Oceny
 ```
