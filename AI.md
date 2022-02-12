@@ -1,6 +1,6 @@
 # AI
 
-## Cześć 1
+## Część 1
 1. 9-10:25
    1. Intro
    2. Żyjemy w chmurze - https://news.microsoft.com/stories/microsoft-datacenter-tour/
@@ -37,7 +37,7 @@
       9. Uruchom training (Quick Training)
       10. Video step by step https://www.youtube.com/watch?v=Mf-PMrz0C4k&list=PLnfmGXUkCC7SLfgIjvN07FInz0qsiX9GE&index=3
 
-## Cześć 2
+## Część 2
 1. 12:30-13:55 - Azure ML wprowadzenie
    1. Video pomocnicze - [![](http://img.youtube.com/vi/8aMzR8iaB9s/0.jpg)](http://www.youtube.com/watch?v=8aMzR8iaB9s "")
 2. 13:55-14:05 - **bio-break**
