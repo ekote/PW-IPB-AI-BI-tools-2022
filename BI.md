@@ -46,6 +46,7 @@
 3. 14:05-15:15 - Power BI 
    1. Omówienie narzędzia
    2. Instalacja Power BI Desktop
+   3. https://playground.powerbi.com/en-us/ - Showcases 
 4. 15:15-15:25 - Podsumowanie dnia i koniec zajęć w breakout rooms
    1. Poznane narzędzia:
       1. [ ] Azure Data Factory
