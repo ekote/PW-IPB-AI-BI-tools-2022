@@ -31,14 +31,11 @@
       1. https://docs.microsoft.com/en-us/azure/architecture/framework/
       2. https://www.youtube.com/watch?v=k9nGhNrPb0k&list=PLnfmGXUkCC7S8nMUCpP3Mk21OQnpwq1zF 
    3. Najważniejsza architektura - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end
-   **4. Ostatni test - https://forms.gle/2Fw2zjAy8PAiUh2b9** 
+   4. **Ostatni test - https://forms.gle/2Fw2zjAy8PAiUh2b9** 
 4. 11:45 - 12:00 
    1. Podsumowanie zajęć w zespołach
    2. Podsumowanie zajęć
+   3. Dziękuję i do zobaczenia! 
+   4. Zapraszam na NOWE STUDIA PODYPLOMOWE **Zastosowanie technologii chmurowych w rozwiązaniach opartych o dane i sztuczną inteligencję** - więcej informacji od prof. Dąbrowskiego i na moim linkedin (https://www.linkedin.com/in/esterakot/). 
 
 
-# Extra gift
-Nagrania:
-- https://bit.ly/innovations-on-azure-v2
-- wprowadzenie (intro) - https://bit.ly/innovations-on-azure
-- zaawansowany (advanced) - https://bit.ly/innovations-on-azure-advanced
