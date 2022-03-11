@@ -43,23 +43,20 @@
       4. Synapse Pipelines 
 2. 13:55-14:05 - **bio-break**
    1. Obowiązkowe 10 przysiadów, 15 skłonów i niepatrzenie w ekran
-3. 14:05-15:15 - Power BI 
-   1. Omówienie narzędzia
-   2. Instalacja Power BI Desktop
-   3. https://playground.powerbi.com/en-us/ - Showcases 
+3. 14:05-15:15 - Azure Synapse Analytics
 4. 15:15-15:25 - Podsumowanie dnia i koniec zajęć w breakout rooms
-   1. Poznane narzędzia:
-      1. [ ] Azure Data Factory
-      2. [ ] Azure Databricks
-      3. [ ] Azure Synapse Analytics
-      4. [ ] Azure Storage Account
-      5. [ ] Power BI
+5. Poznane narzędzia:
+   1. [ ] Azure Data Factory
+   2. [ ] Azure Databricks
+   3. [ ] Azure Synapse Analytics
+   4. [ ] Azure Storage Account
 5. 15:30 Proszę pamiętać o usunięciu zasobów w subskrypcji Azure
+
 
 ## Praca domowa
 ### Dla wszystkich
-   1. Test - zostanie udostępniony do niedzieli do 27.02.2022 23:59 PM AoE.
+   1. Test
    2. Zaawansowana analityka - https://www.youtube.com/watch?v=rzsxpjL3T_Q
-   3. 
 
 ### Dla chętnych:
+- https://www.youtube.com/c/MicrosoftdlaBiznesu
